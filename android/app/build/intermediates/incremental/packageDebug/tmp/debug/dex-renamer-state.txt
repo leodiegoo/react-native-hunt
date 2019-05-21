@@ -1,0 +1,4 @@
+#Fri May 17 12:51:00 BRT 2019
+base.0=/home/leonardo/Workspace/react-native/hunt/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
